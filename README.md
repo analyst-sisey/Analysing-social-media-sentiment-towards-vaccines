@@ -24,3 +24,11 @@ Install the required libraries/packages listed in the requirements.txt file;
 
 # To run compare the result of the 2 models in a single Gradio app 
 * run the command "python SentimentApp.py"
+
+# Please find below the link to the models on HuggingFace Hub
+* The DistilBERT-base-uncased Model - https://huggingface.co/allevelly/sentiment_analysis_of_tweets_on_covid
+* The roBERTa-base model - https://huggingface.co/allevelly/Analysing_socialMedia_sentiment_on_vaccines 
+
+# Please find below the link to the Gradio Apps on HuggingFace Spaces
+* App for sentiment analysis - https://huggingface.co/spaces/allevelly/sentimentApp
+* App that compares the 2 models - https://huggingface.co/spaces/allevelly/sentimentModelComparison
